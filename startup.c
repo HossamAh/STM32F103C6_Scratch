@@ -1,5 +1,4 @@
-// startup.c 
-// Ahmed Elnabawe 
+// startup.c  
 #include "COTS/LIB/Std_Types.h"
 void Rest_Handler() ;
 void Default_Handler(){
